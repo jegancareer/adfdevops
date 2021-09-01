@@ -1,0 +1,9 @@
+{
+	"name": "ADFjegan-Dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e3d0eee-80e2-44fe-a988-f5ecdf72108e",
+		"tenantId": "1221447f-032b-41e7-9f65-2bc263d51f47"
+	}
+}
